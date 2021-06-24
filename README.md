@@ -5,9 +5,11 @@ Link to the guide: [https://reactjs.org/tutorial/tutorial.html]
 
 ## Get started
 
-In the project directory, you can run:
+In the project directory, you need to run:
 
-### `npm start`
+### 1. `npm install` (Install node_modules)
+
+### 2. `npm start` (Start the project)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
